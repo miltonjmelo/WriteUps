@@ -1,7 +1,7 @@
 # HackerDNA - Cronpocalypse
 
 **Categoria:** Linux Privilege Escalation  
-**Dificuldade:** Fácil/Média  
+**Dificuldade:** Fácil 
 **Plataforma:** HackerDNA
 
 ## Técnicas Utilizadas
