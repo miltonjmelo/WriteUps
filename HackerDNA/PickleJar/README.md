@@ -1,5 +1,6 @@
-#HackerDNA - Pickle Jar Write-up
-##Descrição
+# HackerDNA - Pickle Jar Write-up
+
+## Descrição
 
 Este repositório apresenta o write-up do laboratório Pickle Jar, disponibilizado pela plataforma HackerDNA.
 
@@ -7,7 +8,7 @@ O desafio simula o comprometimento de uma aplicação web desenvolvida em Python
 
 O objetivo deste trabalho foi documentar toda a metodologia utilizada durante a exploração, demonstrando não apenas os passos executados, mas também os conceitos técnicos envolvidos em cada fase do ataque.
 
-##Tópicos abordados
+## Tópicos abordados
 * Reconhecimento e enumeração utilizando Nmap;
 * Identificação de vulnerabilidades em aplicações Python;
 * Exploração de Insecure Deserialization;
@@ -26,7 +27,7 @@ O objetivo deste trabalho foi documentar toda a metodologia utilizada durante a 
 * Bash
 * Sudo
 
-##Conhecimentos demonstrados
+## Conhecimentos demonstrados
 
 Este laboratório permitiu praticar conceitos importantes relacionados à segurança ofensiva, incluindo:
 
