@@ -12,6 +12,7 @@ Os relatórios têm como objetivo registrar metodologias de enumeração, explor
 | SQL Injection | Web Application Security   | Fácil       |
 | ClearDesk     | IDOR, API Security, Path Transversal, Access Control, Privilege Escalation | Média |
 | AlValt        | Access Control, Privilege Escalation, Command Injection | Média |
+| PickleJar     | RCE, Privilege Escalation, Insecure Deserializaition | Média |
 
 ## Competências Desenvolvidas
 
