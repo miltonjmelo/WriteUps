@@ -16,8 +16,8 @@ Os relatórios têm como objetivo registrar metodologias de enumeração, explor
 
 ## Competências Desenvolvidas
 
-* Reconhecimento e Enumeração
-* Web Application Security
+* Reconhecimento e Enumeração | Execução Remota de Código
+* Web Application Security | Desserialização Insegura
 * SQL Injection
 * Linux Privilege Escalation
 * Credential Discovery
